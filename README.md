@@ -1,25 +1,169 @@
-<h1 align="center">Hi 👋, I'm Tushar Kumar</h1>
-<h3 align="center">A passionate web developer from India</h3>
+<!--
+  Tushar Kumar | GitHub Profile README
+  Theme: Midnight • Cyan • Violet
+-->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharkumar-coder&label=Profile%20views&color=0e75b6&style=flat" alt="tusharkumar-coder" /> </p>
+<div align="center">
 
-- 📫 How to reach me **tusharkumarr2022@gmail.com**
+<a href="https://github.com/tusharkumar-coder">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1020,45:172554,100:6D28D9&text=Tushar%20Kumar&fontSize=54&fontColor=FFFFFF&fontAlignY=38&desc=Developer%20%7C%20Problem%20Solver%20%7C%20Open%20Source%20Enthusiast&descSize=15&descAlignY=59&animation=fadeIn" width="100%" alt="Tushar Kumar — GitHub profile header"/>
+</a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/tushar-kumar-7607b4381/?isselfprofile=true" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tushar-kumar-7607b4381/?isselfprofile=true" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/jaa_t" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/jaa_t" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/tusharkumarr2022" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/tusharkumarr2022" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/tusha_r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/tusha_r" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/tushar_1_2_21/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/tushar_1_2_21/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/profile/tusharkum6rfq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/profile/tusharkum6rfq" height="30" width="40" /></a>
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=650&lines=Building+for+the+web.;Solving+problems+with+C%2B%2B.;Learning%2C+building%2C+and+contributing.;Turning+ideas+into+working+software." alt="Animated developer introduction"/>
+</a>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tusharkumar-coder&show_icons=true&locale=en&layout=compact" alt="tusharkumar-coder" /></p>
+<a href="https://github.com/tusharkumar-coder?tab=followers">
+  <img src="https://img.shields.io/github/followers/tusharkumar-coder?label=Followers&style=for-the-badge&logo=github&color=18181B&labelColor=0F172A" alt="GitHub followers"/>
+</a>
+<a href="https://github.com/tusharkumar-coder?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore-My%20Repositories-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
+</a>
+<a href="mailto:tusharkumarr2022@gmail.com">
+  <img src="https://img.shields.io/badge/Contact-Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact by email"/>
+</a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tusharkumar-coder&show_icons=true&locale=en" alt="tusharkumar-coder" /></p>
+<br/><br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tusharkumar-coder&" alt="tusharkumar-coder" /></p>
+**Computer Science Student · Web Developer · Competitive Programming Enthusiast**
+
+*Learning by building. Growing through problem solving. Contributing to open source.*
+
+</div>
+
+---
+
+## `$ whoami`
+
+```cpp
+struct Developer {
+    string name = "Tushar Kumar";
+    string location = "India";
+    string primary_language = "C++";
+    string focus = "Web Development & Problem Solving";
+    string mindset = "Learn • Build • Improve • Repeat";
+};
+```
+
+I'm a developer who enjoys turning ideas into functional software and strengthening my problem-solving skills one challenge at a time.
+
+* 💻 Building projects with modern web technologies.
+* 🧠 Practising data structures, algorithms, and competitive programming.
+* 🌱 Exploring open-source contribution and collaborative development.
+* 🛠️ Learning by building, debugging, and improving real projects.
+* 🎯 Working towards writing cleaner, more efficient, and maintainable code.
+
+**Current interests:** Full-stack development · DSA · Open Source · Software Engineering
+
+---
+
+## ⚡ Tech stack
+
+<div align="center">
+
+### Languages
+
+<a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp,c,python,java,javascript,typescript&theme=dark" alt="C++, C, Python, Java, JavaScript and TypeScript"/></a>
+
+### Frontend development
+
+<a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap,figma&theme=dark" alt="HTML, CSS, React, Tailwind CSS, Bootstrap and Figma"/></a>
+
+### Backend and databases
+
+<a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres&theme=dark" alt="Node.js, Express, MongoDB, MySQL and PostgreSQL"/></a>
+
+### Tools and workflow
+
+<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=dark" alt="Git, GitHub, Postman and VS Code"/></a>
+
+</div>
+
+---
+
+## 📊 GitHub analytics
+
+<div align="center">
+
+<a href="https://github.com/tusharkumar-coder">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=tusharkumar-coder&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=A78BFA&text_color=CBD5E1&ring_color=22D3EE&include_all_commits=true" alt="GitHub contribution and repository statistics"/>
+</a>
+<a href="https://github.com/tusharkumar-coder">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharkumar-coder&layout=compact&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=CBD5E1&langs_count=8" alt="Most-used programming languages"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/tusharkumar-coder">
+  <img width="75%" src="https://streak-stats.demolab.com?user=tusharkumar-coder&theme=transparent&hide_border=true&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" alt="GitHub contribution streak"/>
+</a>
+
+</div>
+
+<sub>Note: These cards are generated by external services. Availability, cached data, private-repository visibility, and service limits may affect the displayed statistics.</sub>
+
+---
+
+## 🧩 Competitive programming
+
+<div align="center">
+
+<a href="https://codeforces.com/profile/tusha_r">
+  <img src="https://img.shields.io/badge/Codeforces-tusha__r-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces profile"/>
+</a>
+<a href="https://www.codechef.com/users/jaa_t">
+  <img src="https://img.shields.io/badge/CodeChef-jaa__t-795548?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef profile"/>
+</a>
+<a href="https://leetcode.com/u/tushar_1_2_21/">
+  <img src="https://img.shields.io/badge/LeetCode-tushar__1__2__21-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode profile"/>
+</a>
+<a href="https://www.hackerrank.com/profile/tusharkumarr2022">
+  <img src="https://img.shields.io/badge/HackerRank-tusharkumarr2022-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank profile"/>
+</a>
+<a href="https://www.geeksforgeeks.org/user/tusharkum6rfq/">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-tusharkum6rfq-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks profile"/>
+</a>
+
+<br/><br/>
+
+*Every problem solved is another step towards better problem-solving.*
+
+</div>
+
+---
+
+## 🤝 Connect with me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/tushar-kumar-7607b4381/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:tusharkumarr2022@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<a href="https://github.com/tusharkumar-coder">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<br/><br/>
+
+**Open to learning, collaborating, and contributing to meaningful projects.**
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=tusharkumar-coder&style=for-the-badge&color=0891B2&label=PROFILE+VIEWS" alt="Profile views"/>
+
+<br/><br/>
+
+*“Great software is built one thoughtful iteration at a time.”*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,55:172554,100:0B1020&height=110&section=footer" width="100%" alt="Decorative profile footer"/>
+
+</div>
